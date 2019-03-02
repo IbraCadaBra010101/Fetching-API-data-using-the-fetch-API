@@ -1,0 +1,13 @@
+
+.btn{
+    font-size: 20px;
+    color: #1f1516;
+    background-color: beige;
+
+}
+body{
+ background: darkgoldenrod;
+}
+.list-group-item{
+    font-size:55px;
+}
